@@ -9,6 +9,7 @@ The webpage can be used by all who are interested in digging into reported UFO s
 
 --Leverage filters on the left pane to filter data for analysis.
 ![Filters](https://github.com/taxcollecter/UFOs/blob/ace544486b02567602f41d0fe18c2b61f6fa1af8/Resources/filters.png)
+
 --Example below is filtering on City.
 ![CityFilters]( https://github.com/taxcollecter/UFOs/blob/fda68b9ee9c8f356c3fa739c991ce207c39cd335/Resources/waxhaw.png)
 
